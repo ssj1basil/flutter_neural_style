@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:io';
 
+// ignore: must_be_immutable
 class MyDetailPage extends StatefulWidget {
   File _image;
 
@@ -18,6 +19,8 @@ class _MyDetailPageState extends State<MyDetailPage> {
   _MyDetailPageState(File image) {
     this.image = image;
   }
+
+
 
   @override
   Widget build(BuildContext context) {

@@ -1,4 +1,4 @@
-#Tue Jun 02 23:32:46 IST 2020
-base.0=/home/basil/Downloads/Android studio app/neural_style_transfer/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Wed Jun 03 18:14:15 IST 2020
+base.0=/home/basil/Downloads/Android studio app/neural_style_transfer/flutter_neural_style/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
